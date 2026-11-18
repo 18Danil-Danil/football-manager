@@ -23740,6 +23740,2013 @@ export const squads: ClubSquad[] = [
         "lastStatus": "not_in_squad"
       }
     ]
+  },
+  {
+    "clubId": "fc-famalicao",
+    "club": "FC Famalicão",
+    "country": "Португалия",
+    "league": "Primeira Liga",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/PO1/2025/fc-famalicao.json",
+    "scrapedAt": "2026-06-12T23:57:47.265685+00:00",
+    "players": [
+      {
+        "id": "344457",
+        "name": "Lazar Carević",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "282654",
+        "name": "Ivan Zlobin",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1191154",
+        "name": "Ibrahima Ba",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "420196",
+        "name": "Justin de Haas",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "656409",
+        "name": "Léo Realpe",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1096224",
+        "name": "Renan Santana",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "673435",
+        "name": "Vojin Serafimovic",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1223956",
+        "name": "Matheus Mattara",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "847484",
+        "name": "Pedro Bondo",
+        "position": "LB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "198006",
+        "name": "Rafa Soares",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "549038",
+        "name": "Rodrigo Pinheiro",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "574758",
+        "name": "Garcia",
+        "position": "RB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "420189",
+        "name": "Tom van de Looi",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1061975",
+        "name": "Mathias de Amorim",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1064121",
+        "name": "Marcos Peña",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "724966",
+        "name": "Otar Mamageishvili",
+        "position": "CM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1338526",
+        "name": "Gonzalo Pastor",
+        "position": "CM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "982575",
+        "name": "Gustavo Sá",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "983571",
+        "name": "Rodrigo Ribeiro",
+        "position": "AM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "868101",
+        "name": "Sorriso",
+        "position": "LW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "652332",
+        "name": "Óscar Aranda",
+        "position": "LW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1028162",
+        "name": "Antoine Joujou",
+        "position": "LW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "700479",
+        "name": "Roméo Beney",
+        "position": "LW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "290336",
+        "name": "Rochinha",
+        "position": "LW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "329723",
+        "name": "Gil Dias",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "825835",
+        "name": "Pedro Santos",
+        "position": "RW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1153105",
+        "name": "Yassir Zabiri",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "804661",
+        "name": "Simon Elisor",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1133954",
+        "name": "Umar Abubakar",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1061686",
+        "name": "Rudi Almeida",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      }
+    ]
+  },
+  {
+    "clubId": "porto",
+    "club": "FC Porto",
+    "country": "Португалия",
+    "league": "Primeira Liga",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/PO1/2025/fc-porto.json",
+    "scrapedAt": "2026-06-12T23:54:41.037687+00:00",
+    "players": [
+      {
+        "id": "357153",
+        "name": "Diogo Costa",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "155396",
+        "name": "Cláudio Ramos",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "198638",
+        "name": "João Costa",
+        "position": "GK",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "425918",
+        "name": "Jakub Kiwior",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "491693",
+        "name": "Nehuén Pérez",
+        "position": "CB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "243028",
+        "name": "Jan Bednarek",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "921533",
+        "name": "Dominik Prpić",
+        "position": "CB",
+        "lastStatus": "absent"
+      },
+      {
+        "id": "406151",
+        "name": "Zé Pedro",
+        "position": "CB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "670715",
+        "name": "Gabriel Brás",
+        "position": "CB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "29241",
+        "name": "Thiago Silva",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "478365",
+        "name": "Francisco Moura",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "544784",
+        "name": "Zaidu Sanusi",
+        "position": "LB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "877139",
+        "name": "Alberto Costa",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "935480",
+        "name": "Martim Fernandes",
+        "position": "RB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1193867",
+        "name": "Pedro Lima",
+        "position": "RB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "756990",
+        "name": "Alan Varela",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "370791",
+        "name": "Pablo Rosario",
+        "position": "DM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "637783",
+        "name": "André Oliveira",
+        "position": "DM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1137979",
+        "name": "Tiago Silva",
+        "position": "DM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "926993",
+        "name": "Victor Froholdt",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "182893",
+        "name": "Seko Fofana",
+        "position": "CM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "512913",
+        "name": "Stephen Eustaquio",
+        "position": "CM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "575716",
+        "name": "Vasco Sousa",
+        "position": "CM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "1076056",
+        "name": "Bernardo Lima",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "957653",
+        "name": "Rodrigo Mora",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "699704",
+        "name": "Gabri Veiga",
+        "position": "AM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1162012",
+        "name": "Oskar Pietuszewski",
+        "position": "LW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "634461",
+        "name": "Borja Sainz",
+        "position": "LW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "646739",
+        "name": "Ángel Alarcón",
+        "position": "LW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "324804",
+        "name": "Yann Karamoh",
+        "position": "LW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1088389",
+        "name": "Brayan Caicedo",
+        "position": "LW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1004725",
+        "name": "William Gomes",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "520662",
+        "name": "Pepê",
+        "position": "RW",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1083389",
+        "name": "André Miranda",
+        "position": "RW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "991268",
+        "name": "Samu Aghehowa",
+        "position": "CF",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "538874",
+        "name": "Terem Moffi",
+        "position": "CF",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1063292",
+        "name": "Deniz Gül",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "72522",
+        "name": "Luuk de Jong",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      }
+    ]
+  },
+  {
+    "clubId": "gd-estoril-praia",
+    "club": "GD Estoril Praia",
+    "country": "Португалия",
+    "league": "Primeira Liga",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/PO1/2025/gd-estoril-praia.json",
+    "scrapedAt": "2026-06-12T23:59:03.101316+00:00",
+    "players": [
+      {
+        "id": "101118",
+        "name": "Joel Robles",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "700643",
+        "name": "Martin Turk",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "906307",
+        "name": "Diogo Dias",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "394134",
+        "name": "Felix Bacher",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "709727",
+        "name": "Kévin Boma",
+        "position": "CB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "294321",
+        "name": "Ferro",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "503858",
+        "name": "Antef Tsoungui",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "950442",
+        "name": "Or Israelov",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1166516",
+        "name": "Longin Bimai",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "319623",
+        "name": "Pedro Amaral",
+        "position": "LB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "383014",
+        "name": "Gonçalo Costa",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "925417",
+        "name": "Tiago Parente",
+        "position": "LB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "938149",
+        "name": "Jan Montes",
+        "position": "LB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "388545",
+        "name": "Ricard Sánchez",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1072238",
+        "name": "Pedro Carvalho",
+        "position": "RB",
+        "lastStatus": "absent"
+      },
+      {
+        "id": "1044429",
+        "name": "Diogo Brasido",
+        "position": "RB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "429309",
+        "name": "Jordan Holsgrove",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "737821",
+        "name": "Patrick de Paula",
+        "position": "DM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "388548",
+        "name": "Jandro Orellana",
+        "position": "DM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1020686",
+        "name": "Tiago Brito",
+        "position": "DM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "290256",
+        "name": "Xeka",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "658815",
+        "name": "Nodar Lominadze",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "258005",
+        "name": "João Carvalho",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "64339",
+        "name": "Pizzi",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "826490",
+        "name": "Luís Gomes",
+        "position": "AM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "889257",
+        "name": "Bernardo Lourenço",
+        "position": "AM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "752442",
+        "name": "André Lacximicant",
+        "position": "LW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "394328",
+        "name": "Rafik Guitane",
+        "position": "RW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1070645",
+        "name": "Fabrício Garcia",
+        "position": "RW",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1159044",
+        "name": "Peixinho",
+        "position": "RW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "569376",
+        "name": "Yanis Begraoui",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "525602",
+        "name": "Alejandro Marqués",
+        "position": "CF",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "741650",
+        "name": "Khayon Edwards",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      }
+    ]
+  },
+  {
+    "clubId": "gil-vicente-fc",
+    "club": "Gil Vicente FC",
+    "country": "Португалия",
+    "league": "Primeira Liga",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/PO1/2025/gil-vicente-fc.json",
+    "scrapedAt": "2026-06-13T00:02:56.715114+00:00",
+    "players": [
+      {
+        "id": "610417",
+        "name": "Andrew",
+        "position": "GK",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "412372",
+        "name": "Lucão",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "475407",
+        "name": "Dani Figueira",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "764861",
+        "name": "André Picornell",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "862628",
+        "name": "Marvin Elimbi",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "137313",
+        "name": "Buatu",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "886047",
+        "name": "Antonio Espigares",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "955355",
+        "name": "Arthur Tchaptchet",
+        "position": "CB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1173054",
+        "name": "Diogo Pereira",
+        "position": "CB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "422850",
+        "name": "Ghislain Konan",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "412367",
+        "name": "Weverson",
+        "position": "LB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "617679",
+        "name": "Zé Carlos",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "695121",
+        "name": "Hevertton",
+        "position": "RB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "721952",
+        "name": "Jonathan Mutombo",
+        "position": "RB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1178475",
+        "name": "Mohamed Bamba",
+        "position": "DM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "1292845",
+        "name": "Gui Beleza",
+        "position": "DM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "829434",
+        "name": "Facundo Cáseres",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "908936",
+        "name": "Zé Carlos",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1089809",
+        "name": "Gonçalo Maia",
+        "position": "CM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "609518",
+        "name": "Luís Esteves",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "732096",
+        "name": "Santi García",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "822141",
+        "name": "Martín Fernández",
+        "position": "AM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "937727",
+        "name": "Gil Martins",
+        "position": "AM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "581140",
+        "name": "Joelson Fernandes",
+        "position": "LW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "641576",
+        "name": "Tidjany Touré",
+        "position": "LW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1076584",
+        "name": "Bassco Soyer",
+        "position": "LW",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "999072",
+        "name": "Agustín Moreira",
+        "position": "RW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "345061",
+        "name": "Murilo",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "372051",
+        "name": "Sergio Bermejo",
+        "position": "RW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1333982",
+        "name": "Rodrigo Rodrigues",
+        "position": "RW",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "817665",
+        "name": "Pablo",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "931900",
+        "name": "Gustavo Varela",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "273738",
+        "name": "Héctor Hernández",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "927714",
+        "name": "Carlos Eduardo",
+        "position": "CF",
+        "lastStatus": "bench"
+      }
+    ]
+  },
+  {
+    "clubId": "moreirense-fc",
+    "club": "Moreirense FC",
+    "country": "Португалия",
+    "league": "Primeira Liga",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/PO1/2025/moreirense-fc.json",
+    "scrapedAt": "2026-06-13T00:03:58.224082+00:00",
+    "players": [
+      {
+        "id": "290346",
+        "name": "André Ferreira",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "138285",
+        "name": "Mika",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "175188",
+        "name": "Caio Secco",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "816572",
+        "name": "Gilberto Batista",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "373187",
+        "name": "Maracás",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "887834",
+        "name": "Michel",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1116537",
+        "name": "Kevyn Monteiro",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "190185",
+        "name": "Marcelo",
+        "position": "CB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "934031",
+        "name": "Kiko",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "718577",
+        "name": "Álvaro Martínez",
+        "position": "LB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "478317",
+        "name": "Diogo Travassos",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "663254",
+        "name": "Dinis Pinto",
+        "position": "RB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "657387",
+        "name": "Fabiano",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1173926",
+        "name": "Leandro Santos",
+        "position": "RB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "698539",
+        "name": "Mateja Stjepanović",
+        "position": "DM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1365020",
+        "name": "Afonso Assis",
+        "position": "DM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1510255",
+        "name": "Miguel Silva",
+        "position": "DM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "575716",
+        "name": "Vasco Sousa",
+        "position": "CM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "668178",
+        "name": "Rodri Alonso",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "536081",
+        "name": "Lawrence Ofori",
+        "position": "CM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "581683",
+        "name": "Nile John",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "890718",
+        "name": "Jimi Gower",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "428786",
+        "name": "Alan",
+        "position": "AM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "450790",
+        "name": "Benny",
+        "position": "AM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1219689",
+        "name": "Landerson",
+        "position": "LW",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "536831",
+        "name": "Cedric Teguia",
+        "position": "LW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "590302",
+        "name": "Kiko Bondoso",
+        "position": "LW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "633114",
+        "name": "Joel Jorquera",
+        "position": "LW",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "371245",
+        "name": "Guilherme Schettine",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "840687",
+        "name": "Luís Semedo",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "862568",
+        "name": "Yan Maranhão",
+        "position": "CF",
+        "lastStatus": "starting"
+      }
+    ]
+  },
+  {
+    "clubId": "rio-ave-fc",
+    "club": "Rio Ave FC",
+    "country": "Португалия",
+    "league": "Primeira Liga",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/PO1/2025/rio-ave-fc.json",
+    "scrapedAt": "2026-06-13T00:03:30.849006+00:00",
+    "players": [
+      {
+        "id": "487167",
+        "name": "Cezary Miszta",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "529425",
+        "name": "Ennio van der Gouw",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "378521",
+        "name": "Kevin Chamorro",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "537367",
+        "name": "Alfonso Pastor",
+        "position": "GK",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "724035",
+        "name": "Andreas Ntoi",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "392777",
+        "name": "Jonathan Panzo",
+        "position": "CB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "566677",
+        "name": "Nelson Abbey",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1082582",
+        "name": "Gustavo Mancha",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "985683",
+        "name": "Francisco Petrasso",
+        "position": "CB",
+        "lastStatus": "absent"
+      },
+      {
+        "id": "112948",
+        "name": "Jakub Brabec",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "862204",
+        "name": "Julien Lomboto",
+        "position": "CB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "424881",
+        "name": "Omar Richards",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "623072",
+        "name": "Nikolaos Athanasiou",
+        "position": "LB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "653415",
+        "name": "Leonardo Buta",
+        "position": "LB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "395632",
+        "name": "Marios Vrousai",
+        "position": "RB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "897481",
+        "name": "Eric da Silva Moreira",
+        "position": "RB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "551981",
+        "name": "João Tomé",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1060252",
+        "name": "Theofanis Bakoulas",
+        "position": "DM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "633056",
+        "name": "Tamás Nikitscher",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "481676",
+        "name": "Georgios Liavas",
+        "position": "DM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "631996",
+        "name": "Brandon Aguilera",
+        "position": "CM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "877787",
+        "name": "Ryan Guilherme",
+        "position": "CM",
+        "lastStatus": "absent"
+      },
+      {
+        "id": "228940",
+        "name": "João Novais",
+        "position": "CM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "257707",
+        "name": "João Graça",
+        "position": "CM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "405690",
+        "name": "Ole Pohlmann",
+        "position": "AM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "933884",
+        "name": "Antonis Papakanellos",
+        "position": "AM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "856592",
+        "name": "Tobías Medina",
+        "position": "LW",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "919262",
+        "name": "André Luiz",
+        "position": "RW",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "947404",
+        "name": "Diogo Bezerra",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "403290",
+        "name": "Dario Špikić",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1097263",
+        "name": "Rafael Lobato",
+        "position": "RW",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "733579",
+        "name": "Clayton",
+        "position": "CF",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "973249",
+        "name": "Jalen Blesa",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "842517",
+        "name": "Tamble",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "982557",
+        "name": "Karem Zoabi",
+        "position": "CF",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "376486",
+        "name": "Marc Gual",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      }
+    ]
+  },
+  {
+    "clubId": "braga",
+    "club": "SC Braga",
+    "country": "Португалия",
+    "league": "Primeira Liga",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/PO1/2025/sc-braga.json",
+    "scrapedAt": "2026-06-12T23:57:07.750427+00:00",
+    "players": [
+      {
+        "id": "629773",
+        "name": "Lukas Hornicek",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "929868",
+        "name": "João Carvalho",
+        "position": "GK",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "667991",
+        "name": "Alaa Bellaarouch",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "286908",
+        "name": "Tiago Sá",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1134197",
+        "name": "Romário Cunha",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "485395",
+        "name": "Gustaf Lagerbielke",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "580193",
+        "name": "Bright Arrey-Mbi",
+        "position": "CB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "413118",
+        "name": "Sikou Niakaté",
+        "position": "CB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "625206",
+        "name": "Adrian Barisic",
+        "position": "CB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "1061378",
+        "name": "Jonatás Noro",
+        "position": "CB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "139336",
+        "name": "Paulo Oliveira",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "982559",
+        "name": "Nuno Matos",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1006450",
+        "name": "Afonso Sousa",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1172179",
+        "name": "Fodé Pascoal",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "669956",
+        "name": "Leonardo Lelo",
+        "position": "LB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "495601",
+        "name": "Víctor Gómez",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "875337",
+        "name": "Demir Ege Tıknaz",
+        "position": "DM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1086636",
+        "name": "Gabriel Moscardo",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "553062",
+        "name": "Vítor Carvalho",
+        "position": "DM",
+        "lastStatus": "absent"
+      },
+      {
+        "id": "195736",
+        "name": "Florian Grillitsch",
+        "position": "DM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1073115",
+        "name": "Yanis da Rocha",
+        "position": "DM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "631404",
+        "name": "Gorby",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "984540",
+        "name": "Diego Rodrigues",
+        "position": "CM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "29364",
+        "name": "João Moutinho",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1045972",
+        "name": "Mario Dorgeles",
+        "position": "RM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "606752",
+        "name": "Rodrigo Zalazar",
+        "position": "AM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "898715",
+        "name": "Vasconcelos",
+        "position": "AM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1333915",
+        "name": "Luisinho",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1363297",
+        "name": "António Gil",
+        "position": "AM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "261927",
+        "name": "Ricardo Horta",
+        "position": "LW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "906948",
+        "name": "Gabri Martínez",
+        "position": "LW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "810096",
+        "name": "Ismaël Gharbi",
+        "position": "LW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "906329",
+        "name": "Roger Fernandes",
+        "position": "RW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "1006448",
+        "name": "Sandro Vidigal",
+        "position": "RW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1074179",
+        "name": "Mordomo",
+        "position": "RW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "707572",
+        "name": "Pau Víctor",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "284883",
+        "name": "Fran Navarro",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "735051",
+        "name": "Amine El Ouazzani",
+        "position": "CF",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1006449",
+        "name": "Afonso Patrão",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      }
+    ]
+  },
+  {
+    "clubId": "sporting",
+    "club": "Sporting CP",
+    "country": "Португалия",
+    "league": "Primeira Liga",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/PO1/2025/sporting-lissabon.json",
+    "scrapedAt": "2026-06-12T23:52:53.643114+00:00",
+    "players": [
+      {
+        "id": "234811",
+        "name": "Rui Silva",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "848875",
+        "name": "Diego Callai",
+        "position": "GK",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "329813",
+        "name": "João Virgínia",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "974982",
+        "name": "Ousmane Diomande",
+        "position": "CB",
+        "lastStatus": "absent"
+      },
+      {
+        "id": "549006",
+        "name": "Gonçalo Inácio",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "548193",
+        "name": "Zeno Debast",
+        "position": "CB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "504073",
+        "name": "Eduardo Quaresma",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1044831",
+        "name": "David Moreira",
+        "position": "CB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "743588",
+        "name": "Rômulo",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "572675",
+        "name": "Maxi Araújo",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "290391",
+        "name": "Nuno Santos",
+        "position": "LB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "379249",
+        "name": "Matheus Reis",
+        "position": "LB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "314944",
+        "name": "Ricardo Mangas",
+        "position": "LB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "946883",
+        "name": "Iván Fresneda",
+        "position": "RB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "546186",
+        "name": "Georgios Vagiannidis",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "478317",
+        "name": "Diogo Travassos",
+        "position": "RB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1294105",
+        "name": "Salvador Blopa",
+        "position": "RB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1086722",
+        "name": "Rodrigo Dias",
+        "position": "RB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "461496",
+        "name": "Morten Hjulmand",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1081566",
+        "name": "Eduardo Felicíssimo",
+        "position": "DM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1087842",
+        "name": "Rayan Lucas",
+        "position": "DM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "958937",
+        "name": "João Simões",
+        "position": "CM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "461943",
+        "name": "Daniel Bragança",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "524315",
+        "name": "Hidemasa Morita",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "405564",
+        "name": "Giorgi Kochorashvili",
+        "position": "CM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "412669",
+        "name": "Francisco Trincão",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1294120",
+        "name": "Flávio Gonçalves",
+        "position": "AM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "830365",
+        "name": "Alisson Santos",
+        "position": "LW",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "426620",
+        "name": "Pedro Gonçalves",
+        "position": "LW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1138758",
+        "name": "Geovany Quenda",
+        "position": "RW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "701979",
+        "name": "Geny Catamo",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "991800",
+        "name": "Luís Guilherme",
+        "position": "RW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "666971",
+        "name": "Souleymane Faye",
+        "position": "RW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1056907",
+        "name": "Mauro Couto",
+        "position": "RW",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "424784",
+        "name": "Luis Suárez",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "807386",
+        "name": "Conrad Harder",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "532444",
+        "name": "Fotis Ioannidis",
+        "position": "CF",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "726701",
+        "name": "Rodrigo Ribeiro",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1057523",
+        "name": "Rafael Nel",
+        "position": "CF",
+        "lastStatus": "bench"
+      }
+    ]
+  },
+  {
+    "clubId": "vitoria-guimaraes-sc",
+    "club": "Vitória Guimarães SC",
+    "country": "Португалия",
+    "league": "Primeira Liga",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/PO1/2025/vitoria-guimaraes-sc.json",
+    "scrapedAt": "2026-06-12T23:58:32.193002+00:00",
+    "players": [
+      {
+        "id": "662446",
+        "name": "Juan Castillo",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "181773",
+        "name": "Charles",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1093809",
+        "name": "Gui",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "396342",
+        "name": "Toni Borevković",
+        "position": "CB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "890557",
+        "name": "Óscar Rivas",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "984093",
+        "name": "Thiago Balieiro",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "979625",
+        "name": "Paulo Vitor",
+        "position": "CB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "367652",
+        "name": "Rodrigo Abascal",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "409884",
+        "name": "Miguel Nóbrega",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1265198",
+        "name": "André Oliveira",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "684348",
+        "name": "João Mendes",
+        "position": "LB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "524964",
+        "name": "Orest Lebedenko",
+        "position": "LB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1335120",
+        "name": "Francisco Dias",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1004681",
+        "name": "Tony Strata",
+        "position": "RB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "729140",
+        "name": "Maga",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "937729",
+        "name": "Diogo Sousa",
+        "position": "DM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "645588",
+        "name": "Tomás Händel",
+        "position": "DM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "902869",
+        "name": "Rica Rocha",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "666539",
+        "name": "Beni Mukendi",
+        "position": "CM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "877140",
+        "name": "Gonçalo Nogueira",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "236997",
+        "name": "Tiago Silva",
+        "position": "CM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "959979",
+        "name": "Matija Mitrović",
+        "position": "CM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1077059",
+        "name": "Hugo Nunes",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "291939",
+        "name": "Samu",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "367468",
+        "name": "Nuno Santos",
+        "position": "AM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1199783",
+        "name": "Zeega",
+        "position": "AM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "671669",
+        "name": "Noah Saviolo",
+        "position": "LW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1053206",
+        "name": "Oumar Camara",
+        "position": "LW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "648909",
+        "name": "Fabio Blanco",
+        "position": "LW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "830452",
+        "name": "Vando Félix",
+        "position": "LW",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1277216",
+        "name": "Guilherme Paula",
+        "position": "LW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1047860",
+        "name": "Gustavo Silva",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "791528",
+        "name": "Telmo Arcanjo",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1135545",
+        "name": "Miguel Nogueira",
+        "position": "RW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1050219",
+        "name": "Rodrigo Duarte",
+        "position": "RW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "807124",
+        "name": "Alioune Ndoye",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1184662",
+        "name": "Ejike Opara",
+        "position": "CF",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "72768",
+        "name": "Nélson Oliveira",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      }
+    ]
   }
 ];
 export const squadSeason = '2025/26';
