@@ -73,8 +73,8 @@ export const leagues: League[] = rows.flatMap(([countryCode,country,names]) =>
   names.map((name,index) => ({
     id: countryCode.toLowerCase() + '-' + (index+1),
     country, countryCode, name, tier:index+1,
-    status: countryCode === 'RUS' && index >= 4 ? (index===4?'semi-professional':'amateur')
-      : (index < (countryCode==='ENG'||countryCode==='GER'||countryCode==='ITA'||countryCode==='ESP'||countryCode==='FRA'?4:countryCode==='RUS'?4:2) ? 'professional' : 'semi-professional'),
+    status: countryCode === 'RUS' && index >= 4 ? 'amateur'
+      : (index < (countryCode==='ENG'?5:countryCode==='GER'||countryCode==='ITA'||countryCode==='ESP'||countryCode==='FRA'?3:countryCode==='RUS'?4:2) ? 'professional' : 'semi-professional'),
     source: countryCode === 'RUS' ? rfs : uefa
   }))
 );
