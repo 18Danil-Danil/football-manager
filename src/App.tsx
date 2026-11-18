@@ -1,5 +1,6 @@
 import { useEffect, useMemo, useState } from 'react';
-import { Activity, ArrowUpRight, CalendarDays, ChevronRight, CircleDollarSign, ClipboardList, Shield, Trophy, Users, Play, RotateCcw } from 'lucide-react';
+import { Activity, ArrowUpRight, CalendarDays, ChevronRight, CircleDollarSign, ClipboardList, Shield, Trophy, Users, Play, Database } from 'lucide-react';
+import DatabasePage from './components/Database';
 
 type Player = { id: number; name: string; position: string; age: number; rating: number; fitness: number; morale: number; };
 type Save = { players: Player[]; formation: string; played: number; wins: number; draws: number; losses: number; points: number; lastResult: string; };
@@ -22,7 +23,7 @@ const initialPlayers: Player[] = [
 ];
 const defaults: Save = {players:initialPlayers,formation:'4-3-3',played:11,wins:7,draws:2,losses:2,points:23,lastResult:'—'};
 const formations = ['4-3-3','4-4-2','4-2-3-1','3-5-2'];
-const nav = [{label:'Обзор',icon:Activity},{label:'Состав',icon:Users},{label:'Тактика',icon:ClipboardList},{label:'Календарь',icon:CalendarDays},{label:'Трансферы',icon:ArrowUpRight}];
+const nav = [{label:'Обзор',icon:Activity},{label:'Состав',icon:Users},{label:'Тактика',icon:ClipboardList},{label:'Календарь',icon:CalendarDays},{label:'Трансферы',icon:ArrowUpRight},{label:'База данных',icon:Database}];
 function loadSave(): Save {
   try { const raw=localStorage.getItem('touchline-save-v1'); if(raw){const parsed=JSON.parse(raw) as Save; if(parsed.players?.length===15)return parsed;} } catch { /* use fresh career */ }
   return defaults;
@@ -76,6 +77,7 @@ export default function App() {
       {active==='Состав'&&<section className="panel placeholder-panel"><span className="eyebrow">ПЕРВАЯ КОМАНДА · 15 ИГРОКОВ</span><h2>Состав клуба</h2><p className="muted">Выбери позицию каждого футболиста. Первые 11 игроков выходят в стартовом составе.</p><div className="roster-list">{save.players.map((p,i)=><div key={p.id} className={i<11?'starter-row':''}><span>{i<11?'СТАРТ':'ЗАПАС'}</span><b>{p.name}</b><small>{p.age} лет</small><strong>{p.rating}</strong><select value={p.position} onChange={e=>updatePlayer(p.id,'position',e.target.value)} aria-label={`Позиция: ${p.name}`}>{['ВРТ','ЦЗ','ПЗ','ЛЗ','ЦОП','ЦП','ЦАП','ПВ','ЛВ','НАП'].map(pos=><option key={pos}>{pos}</option>)}</select><small className="fitness">Форма {p.fitness}%</small></div>)}</div></section>}
       {active==='Тактика'&&<section className="panel placeholder-panel"><span className="eyebrow">ПЛАН НА МАТЧ</span><h2>Тактическая схема</h2><p className="muted">Схема влияет на распределение ролей. Выбери расстановку перед следующим матчем.</p><div className="formation-picker">{formations.map(f=><button key={f} className={save.formation===f?'formation active':'formation'} onClick={()=>setSave(s=>({...s,formation:f}))}>{f}</button>)}</div><div className="pitch"><div className="pitch-line"/><div className="pitch-circle"/><div className="pitch-players">{['ВРТ',...(save.formation==='4-4-2'?['ЗЩ','ЗЩ','ЗЩ','ЗЩ','ПЗ','ЦП','ЦП','ЛЗ','НАП','НАП']:save.formation==='3-5-2'?['ЗЩ','ЗЩ','ЗЩ','ПЗ','ЦП','ЦП','ЦП','ЛЗ','НАП','НАП']:save.formation==='4-2-3-1'?['ЗЩ','ЗЩ','ЗЩ','ЗЩ','ЦОП','ЦОП','ПВ','ЦАП','ЛВ','НАП']:['ЗЩ','ЗЩ','ЗЩ','ЗЩ','ЦОП','ЦП','ЦАП','ПВ','ЛВ','НАП'])].map((p,i)=><span key={i}>{p}</span>)}</div></div><p className="muted">Средний рейтинг стартовых 11: <b>{average}</b> · Физическая готовность: <b>{avgFitness}%</b></p></section>}
       {active==='Календарь'&&<section className="panel placeholder-panel"><span className="eyebrow">СЕЗОН 2026/27</span><h2>Календарь и результаты</h2><div className="schedule-row"><span>Предыдущий матч</span><b>{save.lastResult}</b></div><div className="schedule-row"><span>Следующий тур</span><b>Норд Клуб — {opponent}</b></div><button className="primary-button calendar-play" onClick={playMatch}>Сыграть следующий матч <Play size={15}/></button></section>}
+      {active==='База данных'&&<DatabasePage/>}
       {active==='Трансферы'&&<section className="panel placeholder-panel"><span className="eyebrow">ТРАНСФЕРНЫЙ РЫНОК</span><h2>Трансферы</h2><p className="muted">Трансферный бюджет клуба: €12.4 млн. Рынок игроков будет добавлен в следующем обновлении.</p></section>}
       <footer>TOUCHLINE <span>·</span> FOOTBALL DIRECTOR <span className="footer-right">BUILD 0.2.0 · CAREER AUTOSAVE</span></footer>
     </main>
