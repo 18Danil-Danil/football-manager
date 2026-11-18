@@ -80,6 +80,9 @@ export const leagues: League[] = rows.flatMap(([countryCode,country,names]) =>
 );
 
 export const leagueSources = [
+  {name:'RSSSF — Россия 2026/27: РПЛ, Первая лига и Вторая лига А',url:'https://www.rsssf.org/tablesr/rus2027.html'},
+  {name:'RSSSF — Россия 2026: Вторая лига Б и Третья лига',url:'https://www.rsssf.org/tablesr/rus2026b.html'},
+  {name:'Stat-Football — таблицы российских лиг 2026/27',url:'https://www.stat-football.com/en/t/rus20.php'},
   {name:'UEFA — национальные лиги и кубки',url:uefa},
   {name:'РФС — регламенты соревнований',url:rfs},
   {name:'OpenFootball — открытые данные',url:'https://github.com/openfootball'},
