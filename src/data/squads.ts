@@ -16530,6 +16530,2050 @@ export const squads: ClubSquad[] = [
         "lastStatus": "not_in_squad"
       }
     ]
+  },
+  {
+    "clubId": "hellas-verona",
+    "club": "Hellas Verona",
+    "country": "Италия",
+    "league": "Serie A",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/IT1/2025/hellas-verona.json",
+    "scrapedAt": "2026-06-12T23:50:30.850071+00:00",
+    "players": [
+      {
+        "id": "241923",
+        "name": "Lorenzo Montipò",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "240675",
+        "name": "Simone Perilli",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "709986",
+        "name": "Giacomo Toniolo",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1047970",
+        "name": "Mirko Castagnini",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "467563",
+        "name": "Armel Bella-Kotchap",
+        "position": "CB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "422951",
+        "name": "Victor Nelsson",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "338285",
+        "name": "Unai Núñez",
+        "position": "CB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "495839",
+        "name": "Andrias Edmundsson",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "851385",
+        "name": "Tobias Slotsager",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "860992",
+        "name": "Nicolás Valentini",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "342877",
+        "name": "Enzo Ebosse",
+        "position": "CB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "903213",
+        "name": "Adi Kurti",
+        "position": "CB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "943201",
+        "name": "Andrej Popovic",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "488785",
+        "name": "Martin Frese",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "357796",
+        "name": "Domagoj Bradarić",
+        "position": "LB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "986234",
+        "name": "Davide De Battisti",
+        "position": "LB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "864306",
+        "name": "Rafik Belghali",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "298975",
+        "name": "Pol Lirola",
+        "position": "RB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "586984",
+        "name": "Daniel Oyegoke",
+        "position": "RB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "1315458",
+        "name": "Fallou Cham",
+        "position": "RB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "377641",
+        "name": "Moatasem Al-Musrati",
+        "position": "DM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "644032",
+        "name": "Cheikh Niasse",
+        "position": "DM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1082519",
+        "name": "Charlys",
+        "position": "DM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "1098501",
+        "name": "Jurgen Peci",
+        "position": "DM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "268429",
+        "name": "Sandi Lovrić",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "395512",
+        "name": "Antoine Bernede",
+        "position": "CM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "261905",
+        "name": "Suat Serdar",
+        "position": "CM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "416386",
+        "name": "Abdou Harroui",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "197471",
+        "name": "Roberto Gagliardini",
+        "position": "CM",
+        "lastStatus": "absent"
+      },
+      {
+        "id": "298635",
+        "name": "Grigoris Kastanos",
+        "position": "CM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "941869",
+        "name": "Yellu Santiago",
+        "position": "CM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "170481",
+        "name": "Jean-Daniel Akpa Akpro",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "748803",
+        "name": "Luca Monticelli",
+        "position": "CM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "937064",
+        "name": "Luca Szimionaș",
+        "position": "CM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "540333",
+        "name": "Tomas Suslov",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "726526",
+        "name": "Stefan Mitrović",
+        "position": "LW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "1005165",
+        "name": "Giovane",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "647280",
+        "name": "Kieron Bowie",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1018259",
+        "name": "Gift Orban",
+        "position": "CF",
+        "lastStatus": "suspended"
+      },
+      {
+        "id": "748382",
+        "name": "Amin Sarr",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "651569",
+        "name": "Daniel Mosquera",
+        "position": "CF",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "676411",
+        "name": "Dailon Livramento",
+        "position": "CF",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "979766",
+        "name": "Mathis Lambourde",
+        "position": "CF",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "1083069",
+        "name": "Isaac",
+        "position": "CF",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "928037",
+        "name": "Ioan Vermeșan",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1111820",
+        "name": "Junior Ajayi",
+        "position": "CF",
+        "lastStatus": "bench"
+      }
+    ]
+  },
+  {
+    "clubId": "lazio",
+    "club": "SS Lazio",
+    "country": "Италия",
+    "league": "Serie A",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/IT1/2025/lazio-rom.json",
+    "scrapedAt": "2026-06-12T23:42:38.556138+00:00",
+    "players": [
+      {
+        "id": "481675",
+        "name": "Christos Mandas",
+        "position": "GK",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "916430",
+        "name": "Edoardo Motta",
+        "position": "GK",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "197929",
+        "name": "Ivan Provedel",
+        "position": "GK",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "538079",
+        "name": "Alessio Furlanetto",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1255816",
+        "name": "Nicolò Pannozzo",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1320205",
+        "name": "Giacomo Giacomone",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "618341",
+        "name": "Mario Gila",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "644408",
+        "name": "Oliver Provstgaard",
+        "position": "CB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "197747",
+        "name": "Alessio Romagnoli",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "126729",
+        "name": "Patric",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "276896",
+        "name": "Samuel Gigot",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "535955",
+        "name": "Nuno Tavares",
+        "position": "LB",
+        "lastStatus": "absent"
+      },
+      {
+        "id": "346567",
+        "name": "Luca Pellegrini",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "239802",
+        "name": "Adam Marusic",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "331401",
+        "name": "Manuel Lazzari",
+        "position": "RB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "200056",
+        "name": "Elseid Hysaj",
+        "position": "RB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "525704",
+        "name": "Nicolò Rovella",
+        "position": "DM",
+        "lastStatus": "absent"
+      },
+      {
+        "id": "982855",
+        "name": "Reda Belahyane",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "199733",
+        "name": "Danilo Cataldi",
+        "position": "DM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "1056287",
+        "name": "Pietro Pinelli",
+        "position": "DM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "465830",
+        "name": "Mattéo Guendouzi",
+        "position": "CM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "470394",
+        "name": "Kenneth Taylor",
+        "position": "CM",
+        "lastStatus": "absent"
+      },
+      {
+        "id": "530742",
+        "name": "Fisayo Dele-Bashiru",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "334835",
+        "name": "Toma Bašić",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "143812",
+        "name": "Matías Vecino",
+        "position": "CM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "866255",
+        "name": "Valerio Farcomeni",
+        "position": "CM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "539134",
+        "name": "Daniel Maldini",
+        "position": "AM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1018395",
+        "name": "Adrian Przyborek",
+        "position": "AM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "283735",
+        "name": "Mattia Zaccagni",
+        "position": "LW",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "1026255",
+        "name": "Saná Fernandes",
+        "position": "LW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "462823",
+        "name": "Gustav Isaksen",
+        "position": "RW",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "457736",
+        "name": "Tijjani Noslin",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "550106",
+        "name": "Matteo Cancellieri",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "65278",
+        "name": "Pedro",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "522784",
+        "name": "Taty Castellanos",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "846254",
+        "name": "Petar Ratkov",
+        "position": "CF",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "626913",
+        "name": "Boulaye Dia",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "976207",
+        "name": "Federico Serra",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      }
+    ]
+  },
+  {
+    "clubId": "parma-calcio-1913",
+    "club": "Parma Calcio 1913",
+    "country": "Италия",
+    "league": "Serie A",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/IT1/2025/parma-calcio-1913.json",
+    "scrapedAt": "2026-06-12T23:44:33.028254+00:00",
+    "players": [
+      {
+        "id": "432298",
+        "name": "Zion Suzuki",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "528181",
+        "name": "Edoardo Corvi",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "604207",
+        "name": "Filippo Rinaldi",
+        "position": "GK",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "64399",
+        "name": "Vicente Guaita",
+        "position": "GK",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "979859",
+        "name": "Gianluca Astaldi",
+        "position": "GK",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1188642",
+        "name": "Gabriele Casentini",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1371019",
+        "name": "Alessandro Mazzocchi",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "867137",
+        "name": "Alessandro Circati",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1159864",
+        "name": "Mariano Troilo",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "673514",
+        "name": "Abdoulaye Ndiaye",
+        "position": "CB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "543727",
+        "name": "Botond Balogh",
+        "position": "CB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "625202",
+        "name": "Lautaro Valenti",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1119655",
+        "name": "Nicolas Trabucchi",
+        "position": "CB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "858677",
+        "name": "Peter Amoran",
+        "position": "CB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "1082427",
+        "name": "Bernardo Conde",
+        "position": "CB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1009616",
+        "name": "Dominik Drobnic",
+        "position": "CB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "661212",
+        "name": "Mathias Løvik",
+        "position": "LB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "445126",
+        "name": "Emanuele Valeri",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "731491",
+        "name": "Franco Carboni",
+        "position": "LB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "932187",
+        "name": "Sascha Britschgi",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "392956",
+        "name": "Enrico Delprato",
+        "position": "RB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "934974",
+        "name": "Marlon Mena Martinez",
+        "position": "RB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "707844",
+        "name": "Mandela Keita",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "430280",
+        "name": "Hans Nicolussi Caviglia",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "552472",
+        "name": "Nahuel Estévez",
+        "position": "DM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "466802",
+        "name": "Adrián Bernabé",
+        "position": "CM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "514888",
+        "name": "Oliver Sørensen",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1043646",
+        "name": "Christian Ordóñez",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "999127",
+        "name": "Benja Cremaschi",
+        "position": "CM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "181768",
+        "name": "Hernani",
+        "position": "CM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1087009",
+        "name": "Abdou-Salam Konate",
+        "position": "CM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1054296",
+        "name": "Edoardo Tigani",
+        "position": "CM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "613393",
+        "name": "Gaetano Oristanio",
+        "position": "AM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "1085031",
+        "name": "Elia Plicco",
+        "position": "AM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "989001",
+        "name": "Alessandro Ciardi",
+        "position": "AM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "663237",
+        "name": "Jacob Ondrejka",
+        "position": "LW",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "1028162",
+        "name": "Antoine Joujou",
+        "position": "LW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "708186",
+        "name": "Tjas Begic",
+        "position": "LW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "976446",
+        "name": "Alessandro Cardinali",
+        "position": "LW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "457673",
+        "name": "Gabriel Strefezza",
+        "position": "RW",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "300532",
+        "name": "Pontus Almqvist",
+        "position": "RW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "856530",
+        "name": "Mateo Pellegrino",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "454386",
+        "name": "Adrian Benedyczak",
+        "position": "CF",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "265078",
+        "name": "Patrick Cutrone",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "862606",
+        "name": "Nesta Elphege",
+        "position": "CF",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "67556",
+        "name": "Milan Djuric",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "991459",
+        "name": "Daniel Mikołajewski",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "806955",
+        "name": "Dario Sits",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      }
+    ]
+  },
+  {
+    "clubId": "napoli",
+    "club": "SSC Napoli",
+    "country": "Италия",
+    "league": "Serie A",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/IT1/2025/ssc-neapel.json",
+    "scrapedAt": "2026-06-12T23:37:41.982041+00:00",
+    "players": [
+      {
+        "id": "257474",
+        "name": "Vanja Milinković-Savić",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "240414",
+        "name": "Alex Meret",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "250683",
+        "name": "Nikita Contini",
+        "position": "GK",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1195798",
+        "name": "Mathias Ferrante",
+        "position": "GK",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1314016",
+        "name": "David Spinelli",
+        "position": "GK",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "386446",
+        "name": "Alessandro Buongiorno",
+        "position": "CB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "433984",
+        "name": "Sam Beukema",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "257732",
+        "name": "Amir Rrahmani",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "814446",
+        "name": "Luca Marianucci",
+        "position": "CB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "121985",
+        "name": "Juan Jesus",
+        "position": "CB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "525299",
+        "name": "Miguel Gutiérrez",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "376514",
+        "name": "Mathías Olivera",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "118689",
+        "name": "Leonardo Spinazzola",
+        "position": "LB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "169880",
+        "name": "Giovanni Di Lorenzo",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "397225",
+        "name": "Alessandro Zanoli",
+        "position": "RB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "250153",
+        "name": "Pasquale Mazzocchi",
+        "position": "RB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "423744",
+        "name": "Billy Gilmour",
+        "position": "DM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "192735",
+        "name": "Stanislav Lobotka",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1132043",
+        "name": "Vincenzo Prisco",
+        "position": "DM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "315969",
+        "name": "Scott McTominay",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "354361",
+        "name": "Frank Anguissa",
+        "position": "CM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "724178",
+        "name": "Luis Hasa",
+        "position": "CM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "979361",
+        "name": "Emmanuele De Chiara",
+        "position": "CM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "820633",
+        "name": "Coli Saco",
+        "position": "CM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "703245",
+        "name": "Antonio Vergara",
+        "position": "AM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "400489",
+        "name": "Eljif Elmas",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "88755",
+        "name": "Kevin De Bruyne",
+        "position": "AM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "830365",
+        "name": "Alisson Santos",
+        "position": "LW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "339332",
+        "name": "Noa Lang",
+        "position": "LW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "469822",
+        "name": "David Neres",
+        "position": "RW",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "165895",
+        "name": "Matteo Politano",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "610442",
+        "name": "Rasmus Højlund",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "572265",
+        "name": "Lorenzo Lucca",
+        "position": "CF",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "1005165",
+        "name": "Giovane",
+        "position": "CF",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "96341",
+        "name": "Romelu Lukaku",
+        "position": "CF",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "707295",
+        "name": "Giuseppe Ambrosino",
+        "position": "CF",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "521407",
+        "name": "Walid Cheddira",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      }
+    ]
+  },
+  {
+    "clubId": "udinese-calcio",
+    "club": "Udinese Calcio",
+    "country": "Италия",
+    "league": "Serie A",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/IT1/2025/udinese-calcio.json",
+    "scrapedAt": "2026-06-12T23:45:14.899933+00:00",
+    "players": [
+      {
+        "id": "340353",
+        "name": "Maduka Okoye",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "568617",
+        "name": "Răzvan Sava",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "956588",
+        "name": "Alessandro Nunziante",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "27807",
+        "name": "Daniele Padelli",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1234783",
+        "name": "Gioele Venuti",
+        "position": "GK",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "463665",
+        "name": "Oumar Solet",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "698259",
+        "name": "Thomas Kristensen",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "632831",
+        "name": "Nicolò Bertola",
+        "position": "CB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1058354",
+        "name": "Matteo Palma",
+        "position": "CB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "1300966",
+        "name": "Branimir Mlacic",
+        "position": "CB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "906160",
+        "name": "Saba Goglichidze",
+        "position": "CB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "81512",
+        "name": "Christian Kabasele",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "633530",
+        "name": "Jordan Zemura",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "290017",
+        "name": "Hassane Kamara",
+        "position": "LB",
+        "lastStatus": "absent"
+      },
+      {
+        "id": "397225",
+        "name": "Alessandro Zanoli",
+        "position": "RB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "272812",
+        "name": "Kingsley Ehizibue",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "222855",
+        "name": "Jesper Karlström",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1210116",
+        "name": "Abdoulaye Camara",
+        "position": "DM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "855308",
+        "name": "Arthur Atta",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "361068",
+        "name": "Jurgen Ekkelenkamp",
+        "position": "CM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "924857",
+        "name": "Lennon Miller",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "377243",
+        "name": "Jakub Piotrowski",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "268429",
+        "name": "Sandi Lovrić",
+        "position": "CM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "524010",
+        "name": "Oier Zarraga",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1118347",
+        "name": "Juan Arizala",
+        "position": "LM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "1009633",
+        "name": "David Pejičić",
+        "position": "AM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "671799",
+        "name": "Rui Modesto",
+        "position": "RW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "392085",
+        "name": "Nicolò Zaniolo",
+        "position": "SS",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "412660",
+        "name": "Keinan Davis",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1178488",
+        "name": "Idrissa Gueye",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "741292",
+        "name": "Iker Bravo",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "267160",
+        "name": "Adam Buksa",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "375877",
+        "name": "Vakoun Bayo",
+        "position": "CF",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1078784",
+        "name": "Giulio Vinciati",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      }
+    ]
+  },
+  {
+    "clubId": "us-cremonese",
+    "club": "US Cremonese",
+    "country": "Италия",
+    "league": "Serie A",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/IT1/2025/us-cremonese.json",
+    "scrapedAt": "2026-06-12T23:51:34.229812+00:00",
+    "players": [
+      {
+        "id": "256339",
+        "name": "Emil Audero",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "85528",
+        "name": "Marco Silvestri",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "815563",
+        "name": "Lapo Nava",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1078792",
+        "name": "Marco Cassin",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1079997",
+        "name": "Adrián Malovec",
+        "position": "GK",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "631007",
+        "name": "Filippo Terracciano",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "666974",
+        "name": "Mikayil Faye",
+        "position": "CB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "278531",
+        "name": "Sebastiano Luperto",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "351955",
+        "name": "Federico Baschirotto",
+        "position": "CB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "160986",
+        "name": "Matteo Bianchetti",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "603675",
+        "name": "Francesco Folino",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "163639",
+        "name": "Federico Ceccherini",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1103698",
+        "name": "Davide Pavesi",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1241862",
+        "name": "Tommaso Vigilati",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "336960",
+        "name": "Giuseppe Pezzella",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "340707",
+        "name": "Leonardo Sernicola",
+        "position": "LB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "569939",
+        "name": "Tommaso Barbieri",
+        "position": "RB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "708086",
+        "name": "Romano Floriani Mussolini",
+        "position": "RB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "197473",
+        "name": "Alberto Grassi",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "195335",
+        "name": "Michele Castagnetti",
+        "position": "DM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "897651",
+        "name": "Simone Lottici Tessadri",
+        "position": "DM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "659516",
+        "name": "Warren Bondo",
+        "position": "CM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "555820",
+        "name": "Martín Payero",
+        "position": "CM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "258827",
+        "name": "Jari Vandeputte",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "226524",
+        "name": "Morten Thorsby",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "434551",
+        "name": "Michele Collocolo",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "324377",
+        "name": "Youssef Maleh",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "894456",
+        "name": "Dachi Lordkipanidze",
+        "position": "CM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "167741",
+        "name": "Mattia Valoti",
+        "position": "CM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "433584",
+        "name": "Alessio Zerbin",
+        "position": "RM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "76163",
+        "name": "Franco Vázquez",
+        "position": "AM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "568005",
+        "name": "Jeremy Sarmiento",
+        "position": "LW",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "406042",
+        "name": "Dennis Johnsen",
+        "position": "LW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "819369",
+        "name": "Adrian Lickūnas",
+        "position": "RW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "599663",
+        "name": "Faris Moumbagna",
+        "position": "CF",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "241527",
+        "name": "Federico Bonazzoli",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "234523",
+        "name": "Antonio Sanabria",
+        "position": "CF",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "413605",
+        "name": "David Okereke",
+        "position": "CF",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "375816",
+        "name": "Manuel De Luca",
+        "position": "CF",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "67556",
+        "name": "Milan Djuric",
+        "position": "CF",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "197838",
+        "name": "Jamie Vardy",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1086474",
+        "name": "Nouroudine Faye",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      }
+    ]
+  },
+  {
+    "clubId": "us-lecce",
+    "club": "US Lecce",
+    "country": "Италия",
+    "league": "Serie A",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/IT1/2025/us-lecce.json",
+    "scrapedAt": "2026-06-12T23:49:16.170580+00:00",
+    "players": [
+      {
+        "id": "238537",
+        "name": "Wladimiro Falcone",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "336307",
+        "name": "Christian Früchtl",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "712911",
+        "name": "Jasper Samooja",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1084756",
+        "name": "Plamen Penev",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1182224",
+        "name": "Daniele Bleve",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1112449",
+        "name": "Tiago Gabriel",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "604113",
+        "name": "Jamil Siebert",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "836441",
+        "name": "Gaspar",
+        "position": "CB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "805886",
+        "name": "Gaby Jean",
+        "position": "CB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1175410",
+        "name": "Matías Pérez",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "392516",
+        "name": "Antonino Gallo",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "433329",
+        "name": "Corrie Ndaba",
+        "position": "LB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "728485",
+        "name": "Danilo Veiga",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1057563",
+        "name": "Christ-Owen Kouassi",
+        "position": "RB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "980575",
+        "name": "Oumar Ngom",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "442703",
+        "name": "Ylber Ramadani",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "642002",
+        "name": "Balthazar Pierret",
+        "position": "DM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "644613",
+        "name": "Sadik Fofana",
+        "position": "DM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "866607",
+        "name": "Niko Kovač",
+        "position": "DM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "748679",
+        "name": "Olaf Gorter",
+        "position": "DM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "583046",
+        "name": "Medon Berisha",
+        "position": "CM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "911328",
+        "name": "Mohamed Kaba",
+        "position": "CM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "386552",
+        "name": "Lassana Coulibaly",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "488996",
+        "name": "Thórir Jóhann Helgason",
+        "position": "CM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "324377",
+        "name": "Youssef Maleh",
+        "position": "CM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "418571",
+        "name": "Hamza Rafia",
+        "position": "CM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "582664",
+        "name": "Álex Sala",
+        "position": "CM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "780548",
+        "name": "Omri Gandelman",
+        "position": "AM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "555106",
+        "name": "Filip Marchwinski",
+        "position": "AM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "545538",
+        "name": "Lameck Banda",
+        "position": "LW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "386455",
+        "name": "Riccardo Sottil",
+        "position": "LW",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "339816",
+        "name": "Tete Morente",
+        "position": "LW",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "674806",
+        "name": "Santiago Pierotti",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "649490",
+        "name": "Konan N’Dri",
+        "position": "RW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1058368",
+        "name": "Francesco Camarda",
+        "position": "CF",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "595650",
+        "name": "Nikola Stulic",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "521407",
+        "name": "Walid Cheddira",
+        "position": "CF",
+        "lastStatus": "starting"
+      }
+    ]
+  },
+  {
+    "clubId": "us-sassuolo",
+    "club": "US Sassuolo",
+    "country": "Италия",
+    "league": "Serie A",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/IT1/2025/us-sassuolo.json",
+    "scrapedAt": "2026-06-12T23:43:31.402681+00:00",
+    "players": [
+      {
+        "id": "371021",
+        "name": "Arijanet Murić",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "543666",
+        "name": "Stefano Turati",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "659648",
+        "name": "Gioele Zacchi",
+        "position": "GK",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "323255",
+        "name": "Giacomo Satalino",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1168024",
+        "name": "Lorenzo Nyarko",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "679423",
+        "name": "Tarik Muharemović",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "546926",
+        "name": "Jay Idzes",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "520530",
+        "name": "Fali Candé",
+        "position": "CB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "1082581",
+        "name": "Pedro Felipe",
+        "position": "CB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "406632",
+        "name": "Cas Odenthal",
+        "position": "CB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "256678",
+        "name": "Filippo Romagna",
+        "position": "CB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "984373",
+        "name": "Tommaso Macchioni",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1019116",
+        "name": "Giorgio Vezzosi",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "567129",
+        "name": "Josh Doig",
+        "position": "LB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "192616",
+        "name": "Ulisses Garcia",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "691825",
+        "name": "Edoardo Pieragnolo",
+        "position": "LB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "938673",
+        "name": "Luca Barani",
+        "position": "LB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "345458",
+        "name": "Sebastian Walukiewicz",
+        "position": "RB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "592975",
+        "name": "Woyo Coulibaly",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "650993",
+        "name": "Filippo Missori",
+        "position": "RB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "655525",
+        "name": "Yeferson Paz",
+        "position": "RB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "724106",
+        "name": "Luca Lipani",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "441515",
+        "name": "Daniel Boloca",
+        "position": "DM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "74683",
+        "name": "Nemanja Matić",
+        "position": "DM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "390163",
+        "name": "Andrea Ghion",
+        "position": "DM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "1206718",
+        "name": "Jeffrey Baffoh",
+        "position": "DM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "921655",
+        "name": "Ismaël Koné",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "564785",
+        "name": "Kristian Thorstvedt",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "503881",
+        "name": "Aster Vranckx",
+        "position": "CM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "700053",
+        "name": "Edoardo Iannoni",
+        "position": "CM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1057574",
+        "name": "Christian Frangella",
+        "position": "CM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "746891",
+        "name": "Cristian Volpato",
+        "position": "AM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1170286",
+        "name": "Darryl Bakola",
+        "position": "AM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "579930",
+        "name": "Armand Laurienté",
+        "position": "LW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "749552",
+        "name": "Alieu Fadera",
+        "position": "LW",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "177843",
+        "name": "Domenico Berardi",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "372720",
+        "name": "Nicholas Pierini",
+        "position": "RW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "315865",
+        "name": "Andrea Pinamonti",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "354814",
+        "name": "M'Bala Nzola",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "457422",
+        "name": "Samuele Mulattieri",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "521407",
+        "name": "Walid Cheddira",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "812625",
+        "name": "Agustín Álvarez",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "600936",
+        "name": "Luca Moro",
+        "position": "CF",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "655207",
+        "name": "Laurs Skjellerup",
+        "position": "CF",
+        "lastStatus": "not_included"
+      }
+    ]
   }
 ];
 export const squadSeason = '2025/26';
