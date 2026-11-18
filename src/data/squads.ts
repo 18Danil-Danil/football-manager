@@ -11404,6 +11404,1553 @@ export const squads: ClubSquad[] = [
         "lastStatus": "bench"
       }
     ]
+  },
+  {
+    "clubId": "afc-bournemouth",
+    "club": "AFC Bournemouth",
+    "country": "Англия",
+    "league": "Premier League",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/GB1/2025/afc-bournemouth.json",
+    "scrapedAt": "2026-06-12T22:36:07.720437+00:00",
+    "players": [
+      {
+        "id": "465555",
+        "name": "Djordje Petrovic",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "481675",
+        "name": "Christos Mandas",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "52570",
+        "name": "Fraser Forster",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "582078",
+        "name": "Will Dennis",
+        "position": "GK",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "463605",
+        "name": "Bafodé Diakité",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "469781",
+        "name": "Marcos Senesi",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "611793",
+        "name": "James Hill",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "989112",
+        "name": "Veljko Milosavljevic",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "654539",
+        "name": "Adrien Truffert",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1009658",
+        "name": "Julio Soler",
+        "position": "LB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "741257",
+        "name": "Álex Jiménez",
+        "position": "RB",
+        "lastStatus": "suspended"
+      },
+      {
+        "id": "513970",
+        "name": "Julián Araujo",
+        "position": "RB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "61841",
+        "name": "Adam Smith",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "332705",
+        "name": "Tyler Adams",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "854721",
+        "name": "Ben Winterburn",
+        "position": "DM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "1122668",
+        "name": "Charlie Stevens",
+        "position": "DM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1323654",
+        "name": "Malcom Dacosta González",
+        "position": "DM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "855256",
+        "name": "Alex Scott",
+        "position": "CM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "998101",
+        "name": "Alex Tóth",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "249089",
+        "name": "Lewis Cook",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "188077",
+        "name": "Ryan Christie",
+        "position": "CM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "320411",
+        "name": "Philip Billing",
+        "position": "CM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "330659",
+        "name": "Justin Kluivert",
+        "position": "AM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "399434",
+        "name": "Marcus Tavernier",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "555076",
+        "name": "Romain Faivre",
+        "position": "AM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "532776",
+        "name": "Amine Adli",
+        "position": "LW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "391065",
+        "name": "Hamed Traoré",
+        "position": "LW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "583255",
+        "name": "Antoine Semenyo",
+        "position": "RW",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1012564",
+        "name": "Rayan",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "719673",
+        "name": "Ben Gannon-Doak",
+        "position": "RW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "277033",
+        "name": "David Brooks",
+        "position": "RW",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "936901",
+        "name": "Dominic Sadi",
+        "position": "RW",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "955357",
+        "name": "Junior Kroupi",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "711337",
+        "name": "Evanilson",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "251106",
+        "name": "Enes Ünal",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1089802",
+        "name": "Remy Rees-Dottin",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      }
+    ]
+  },
+  {
+    "clubId": "afc-sunderland",
+    "club": "Sunderland AFC",
+    "country": "Англия",
+    "league": "Premier League",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/GB1/2025/afc-sunderland.json",
+    "scrapedAt": "2026-06-12T22:39:33.977061+00:00",
+    "players": [
+      {
+        "id": "646991",
+        "name": "Robin Roefs",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "475946",
+        "name": "Anthony Patterson",
+        "position": "GK",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "605426",
+        "name": "Melker Ellborg",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "123536",
+        "name": "Simon Moore",
+        "position": "GK",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "503686",
+        "name": "Dan Ballard",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "353032",
+        "name": "Omar Alderete",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "617755",
+        "name": "Jenson Seelt",
+        "position": "CB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "661208",
+        "name": "Leo Hjelde",
+        "position": "CB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "282939",
+        "name": "Luke O'Nien",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "568006",
+        "name": "Dennis Cirkin",
+        "position": "LB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "240692",
+        "name": "Reinildo Mandava",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "181380",
+        "name": "Arthur Masuaku",
+        "position": "LB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "515544",
+        "name": "Trai Hume",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "420210",
+        "name": "Lutsharel Geertruida",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "348026",
+        "name": "Nordi Mukiele",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "990997",
+        "name": "Jenson Jones",
+        "position": "RB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "111455",
+        "name": "Granit Xhaka",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "727089",
+        "name": "Noah Sadiki",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "876631",
+        "name": "Habib Diarra",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "633992",
+        "name": "Enzo Le Fée",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "570336",
+        "name": "Dan Neil",
+        "position": "CM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "1018837",
+        "name": "Jaydon Jones",
+        "position": "CM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "947411",
+        "name": "Chris Rigg",
+        "position": "AM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "942738",
+        "name": "Milan Aleksic",
+        "position": "AM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "937840",
+        "name": "Harrison Jones",
+        "position": "AM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1018830",
+        "name": "Jack Whittaker",
+        "position": "AM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "658536",
+        "name": "Simon Adingra",
+        "position": "LW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "903611",
+        "name": "Nilson Angulo",
+        "position": "LW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "696181",
+        "name": "Romaine Mundle",
+        "position": "LW",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "1079078",
+        "name": "Timur Tuterov",
+        "position": "LW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "743384",
+        "name": "Chemsdine Talbi",
+        "position": "RW",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "131996",
+        "name": "Bertrand Traoré",
+        "position": "RW",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "225452",
+        "name": "Patrick Roberts",
+        "position": "RW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "1322090",
+        "name": "Jocelin Ta Bi",
+        "position": "RW",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "473169",
+        "name": "Brian Brobbey",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "494237",
+        "name": "Wilson Isidor",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "967346",
+        "name": "Eliezer Mayenda",
+        "position": "CF",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "938158",
+        "name": "Marc Guiu",
+        "position": "CF",
+        "lastStatus": "not_included"
+      }
+    ]
+  },
+  {
+    "clubId": "brighton",
+    "club": "Brighton & Hove Albion",
+    "country": "Англия",
+    "league": "Premier League",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/GB1/2025/brighton-amp-hove-albion.json",
+    "scrapedAt": "2026-06-12T22:35:36.479347+00:00",
+    "players": [
+      {
+        "id": "565093",
+        "name": "Bart Verbruggen",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "73564",
+        "name": "Jason Steele",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "576314",
+        "name": "Jan Paul van Hecke",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "660860",
+        "name": "Diego Coppola",
+        "position": "CB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "318508",
+        "name": "Olivier Boscagli",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "380350",
+        "name": "Igor Julio",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "148153",
+        "name": "Lewis Dunk",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1120418",
+        "name": "Freddie Simmonds",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "369316",
+        "name": "Ferdi Kadıoğlu",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "429915",
+        "name": "Maxim De Cuyper",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "415381",
+        "name": "Mats Wieffer",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "111195",
+        "name": "Joël Veltman",
+        "position": "RB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "921662",
+        "name": "Charlie Tasker",
+        "position": "RB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "973085",
+        "name": "Carlos Baleba",
+        "position": "DM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "867688",
+        "name": "Jack Hinshelwood",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "667287",
+        "name": "Yasin Ayari",
+        "position": "CM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "996897",
+        "name": "Diego Gómez",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "406634",
+        "name": "Matt O'Riley",
+        "position": "CM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "82873",
+        "name": "Pascal Groß",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "3333",
+        "name": "James Milner",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "978668",
+        "name": "Joe Knight",
+        "position": "CM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "700106",
+        "name": "Brajan Gruda",
+        "position": "AM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "1067168",
+        "name": "Harry Howell",
+        "position": "AM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "504849",
+        "name": "Kaoru Mitoma",
+        "position": "LW",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "933018",
+        "name": "Tom Watson",
+        "position": "LW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "914269",
+        "name": "Nehemiah Oriola",
+        "position": "LW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1012534",
+        "name": "Yankuba Minteh",
+        "position": "RW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "209212",
+        "name": "Solly March",
+        "position": "RW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "538977",
+        "name": "Georginio Rutter",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1060087",
+        "name": "Charalampos Kostoulas",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "950091",
+        "name": "Stefanos Tzimas",
+        "position": "CF",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "67063",
+        "name": "Danny Welbeck",
+        "position": "CF",
+        "lastStatus": "starting"
+      }
+    ]
+  },
+  {
+    "clubId": "crystal-palace",
+    "club": "Crystal Palace",
+    "country": "Англия",
+    "league": "Premier League",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/GB1/2025/crystal-palace.json",
+    "scrapedAt": "2026-06-12T22:36:58.292292+00:00",
+    "players": [
+      {
+        "id": "258919",
+        "name": "Dean Henderson",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "296802",
+        "name": "Walter Benítez",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "196722",
+        "name": "Remi Matthews",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "392757",
+        "name": "Marc Guéhi",
+        "position": "CB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "434224",
+        "name": "Maxence Lacroix",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "578539",
+        "name": "Chris Richards",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1006411",
+        "name": "Jaydee Canvot",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "689637",
+        "name": "Chadi Riad",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1045118",
+        "name": "George King",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "730893",
+        "name": "Tyrick Mitchell",
+        "position": "LB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "293194",
+        "name": "Borna Sosa",
+        "position": "LB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1047257",
+        "name": "Rio Cardines",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1285021",
+        "name": "Dean Benamar",
+        "position": "LB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "493003",
+        "name": "Daniel Muñoz",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "862109",
+        "name": "Danny Imray",
+        "position": "RB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "85177",
+        "name": "Nathaniel Clyne",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "744149",
+        "name": "Adam Wharton",
+        "position": "DM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "262980",
+        "name": "Jefferson Lerma",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "860078",
+        "name": "Kaden Rodney",
+        "position": "DM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "207014",
+        "name": "Will Hughes",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "479999",
+        "name": "Eberechi Eze",
+        "position": "AM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "747009",
+        "name": "Justin Devenny",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "356141",
+        "name": "Daichi Kamada",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "410225",
+        "name": "Ismaïla Sarr",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "470607",
+        "name": "Brennan Johnson",
+        "position": "RW",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "568157",
+        "name": "Yéremy Pino",
+        "position": "RW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "500689",
+        "name": "Evann Guessand",
+        "position": "RW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "967319",
+        "name": "Romain Esse",
+        "position": "RW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "586834",
+        "name": "Jesurun Rak-Sakyi",
+        "position": "RW",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1348941",
+        "name": "Joél Drakes-Thomas",
+        "position": "RW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "429983",
+        "name": "Jørgen Strand Larsen",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "420002",
+        "name": "Jean-Philippe Mateta",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "344152",
+        "name": "Odsonne Édouard",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1124005",
+        "name": "Christantus Uche",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "340324",
+        "name": "Eddie Nketiah",
+        "position": "CF",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "1004679",
+        "name": "Zach Marsh",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1172646",
+        "name": "Ben Casey",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      }
+    ]
+  },
+  {
+    "clubId": "brentford",
+    "club": "Brentford FC",
+    "country": "Англия",
+    "league": "Premier League",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/GB1/2025/fc-brentford.json",
+    "scrapedAt": "2026-06-12T22:37:40.938952+00:00",
+    "players": [
+      {
+        "id": "340918",
+        "name": "Caoimhín Kelleher",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "488935",
+        "name": "Hákon Valdimarsson",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "456292",
+        "name": "Ellery Balcombe",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "541231",
+        "name": "Sepp van den Berg",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "469050",
+        "name": "Nathan Collins",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "328658",
+        "name": "Kristoffer Ajer",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "442248",
+        "name": "Ethan Pinnock",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1144158",
+        "name": "Benjamin Arthur",
+        "position": "CB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "967342",
+        "name": "Joshua Stephenson",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "339556",
+        "name": "Rico Henry",
+        "position": "LB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "1008162",
+        "name": "Conor McManus",
+        "position": "LB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "823486",
+        "name": "Michael Kayode",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "591949",
+        "name": "Aaron Hickey",
+        "position": "RB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "391005",
+        "name": "Mads Roerslev",
+        "position": "RB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "1211262",
+        "name": "Ollie Shield",
+        "position": "RB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "270171",
+        "name": "Vitaly Janelt",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1141628",
+        "name": "Yunus Konak",
+        "position": "DM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "61651",
+        "name": "Jordan Henderson",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "717411",
+        "name": "Yegor Yarmolyuk",
+        "position": "CM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "319859",
+        "name": "Mathias Jensen",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "421637",
+        "name": "Frank Onyeka",
+        "position": "CM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "340321",
+        "name": "Josh Dasilva",
+        "position": "CM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "907218",
+        "name": "Riley Owen",
+        "position": "CM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "644401",
+        "name": "Keane Lewis-Potter",
+        "position": "LM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "540941",
+        "name": "Mikkel Damsgaard",
+        "position": "AM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "683620",
+        "name": "Antoni Milambo",
+        "position": "AM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "559263",
+        "name": "Fábio Carvalho",
+        "position": "AM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "587002",
+        "name": "Myles Peart-Harris",
+        "position": "AM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "1407213",
+        "name": "Luka Bentt",
+        "position": "AM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "473050",
+        "name": "Kevin Schade",
+        "position": "LW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "340325",
+        "name": "Reiss Nelson",
+        "position": "LW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1086375",
+        "name": "Gustavo Nunes",
+        "position": "LW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "823231",
+        "name": "Dango Ouattara",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1091562",
+        "name": "Romelle Donovan",
+        "position": "RW",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "739443",
+        "name": "Igor Thiago",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1011936",
+        "name": "Kaye Furo",
+        "position": "CF",
+        "lastStatus": "bench"
+      }
+    ]
+  },
+  {
+    "clubId": "fc-burnley",
+    "club": "Burnley FC",
+    "country": "Англия",
+    "league": "Premier League",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/GB1/2025/fc-burnley.json",
+    "scrapedAt": "2026-06-12T22:42:35.268668+00:00",
+    "players": [
+      {
+        "id": "829299",
+        "name": "Max Weiß",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "74960",
+        "name": "Martin Dúbravka",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "842341",
+        "name": "Maxime Estève",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "612517",
+        "name": "Bashir Humphreys",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "342046",
+        "name": "Axel Tuanzebe",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "392179",
+        "name": "Hjalmar Ekdal",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "415970",
+        "name": "Joe Worrall",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "514285",
+        "name": "Quilindschy Hartman",
+        "position": "LB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "927768",
+        "name": "Lucas Pires",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1214634",
+        "name": "Oliver Pimlott",
+        "position": "LB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "541628",
+        "name": "Oliver Sonne",
+        "position": "RB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "95424",
+        "name": "Kyle Walker",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "214666",
+        "name": "Connor Roberts",
+        "position": "RB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "711999",
+        "name": "Lesley Ugochukwu",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "357162",
+        "name": "Florentino",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "181579",
+        "name": "James Ward-Prowse",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "242606",
+        "name": "Josh Cullen",
+        "position": "CM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "314241",
+        "name": "Josh Laurent",
+        "position": "CM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1352710",
+        "name": "George Brierley",
+        "position": "CM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "607224",
+        "name": "Hannibal",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "646658",
+        "name": "Aaron Ramsey",
+        "position": "AM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "381963",
+        "name": "Mike Tresor",
+        "position": "AM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "684210",
+        "name": "Jaidon Anthony",
+        "position": "LW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "293281",
+        "name": "Jacob Bruun Larsen",
+        "position": "LW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "706889",
+        "name": "Jaydon Banel",
+        "position": "LW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "607226",
+        "name": "Loum Tchaouna",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "314367",
+        "name": "Marcus Edwards",
+        "position": "RW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "724041",
+        "name": "Enock Agyei",
+        "position": "RW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1165131",
+        "name": "Kian McMahon-Brown",
+        "position": "RW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "411537",
+        "name": "Zian Flemming",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "467623",
+        "name": "Lyle Foster",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "548729",
+        "name": "Zeki Amdouni",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "571743",
+        "name": "Armando Broja",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "63200",
+        "name": "Ashley Barnes",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      }
+    ]
+  },
+  {
+    "clubId": "everton",
+    "club": "Everton FC",
+    "country": "Англия",
+    "league": "Premier League",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/GB1/2025/fc-everton.json",
+    "scrapedAt": "2026-06-12T22:38:20.763777+00:00",
+    "players": [
+      {
+        "id": "130164",
+        "name": "Jordan Pickford",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "357658",
+        "name": "Mark Travers",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "574448",
+        "name": "Harry Tyrer",
+        "position": "GK",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "215810",
+        "name": "Tom King",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "661053",
+        "name": "Jarrad Branthwaite",
+        "position": "CB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "173504",
+        "name": "James Tarkowski",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "118534",
+        "name": "Michael Keane",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "655986",
+        "name": "Reece Welch",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "747598",
+        "name": "Elijah Campbell",
+        "position": "CB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "404842",
+        "name": "Vitaliy Mykolenko",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "938146",
+        "name": "Adam Aznou",
+        "position": "LB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "711544",
+        "name": "Jake O'Brien",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "424015",
+        "name": "Nathan Patterson",
+        "position": "RB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "68390",
+        "name": "Séamus Coleman",
+        "position": "RB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "505219",
+        "name": "James Garner",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "126665",
+        "name": "Idrissa Gueye",
+        "position": "DM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "475188",
+        "name": "Kiernan Dewsbury-Hall",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "696589",
+        "name": "Tim Iroegbunam",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "748319",
+        "name": "Carlos Alcaraz",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1107733",
+        "name": "Harrison Armstrong",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "663225",
+        "name": "Tyler Onyango",
+        "position": "CM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "1018716",
+        "name": "Callum Bates",
+        "position": "CM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "608832",
+        "name": "Merlin Röhl",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "203460",
+        "name": "Jack Grealish",
+        "position": "LW",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "936874",
+        "name": "Tyrique George",
+        "position": "LW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "584769",
+        "name": "Dwight McNeil",
+        "position": "LW",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "623570",
+        "name": "Iliman Ndiaye",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "866655",
+        "name": "Tyler Dibling",
+        "position": "RW",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "937941",
+        "name": "Thierno Barry",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "595809",
+        "name": "Beto",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "670688",
+        "name": "Youssef Chermiti",
+        "position": "CF",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "1122712",
+        "name": "Braiden Graham",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      }
+    ]
   }
 ];
 export const squadSeason = '2025/26';
