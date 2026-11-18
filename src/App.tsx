@@ -28,7 +28,7 @@ const defaults: Save = {players:initialPlayers,formation:'4-3-3',played:0,wins:0
 const formations = ['4-3-3','4-4-2','4-2-3-1','3-5-2'];
 const nav = [{label:'Обзор',icon:Activity},{label:'Состав',icon:Users},{label:'Тактика',icon:ClipboardList},{label:'Календарь',icon:CalendarDays},{label:'Трансферы',icon:ArrowUpRight},{label:'База данных',icon:Database}];
 function loadSave(): Save {
-  try { const raw=localStorage.getItem('touchline-save-v1'); if(raw){const parsed=JSON.parse(raw) as Save; if(parsed.players?.length===15)return parsed;} } catch { /* use fresh career */ }
+  try { const raw=localStorage.getItem('touchline-save-v1'); if(raw){const parsed=JSON.parse(raw) as Save; if(parsed.players?.length>=11)return {...parsed,transferBudget:parsed.transferBudget??12.4};} } catch { /* use fresh career */ }
   return defaults;
 }
 export default function App() {
