@@ -14,6 +14,7 @@ This project separates the game engine from external football data. League and c
 
 - UEFA national leagues and cups: https://www.uefa.com/nationalassociations/leaguesandcups/
 - Russian Football Union regulations and competition documents: https://www.rfs.ru/subject/1/documents
+- Public 2025/26 matchday squad archive for six major leagues (player names, positions and matchday status): https://github.com/withqwerty/availability-data
 - OpenFootball open match data (CC0 repositories): https://github.com/openfootball
 - Reep football identity register (CC0 snapshots): https://reep.football/data/
 - Football-data.org team crest CDN and competition catalogue: https://www.football-data.org/
