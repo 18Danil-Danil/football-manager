@@ -52,7 +52,14 @@ export default function App() {
     if(!club)return;
     const archived=squads.find(x=>x.clubId===club.id);
     const positions:Record<string,string>={GK:'ВРТ',CB:'ЦЗ',LB:'ЛЗ',RB:'ПЗ',DM:'ЦОП',CM:'ЦП',AM:'ЦАП',LW:'ЛВ',RW:'ПВ',CF:'НАП'};
-    const players=archived?.players.slice(0,15).map((p,i)=>({id:i+1,name:p.name,position:positions[p.position]||'ЦП',age:20+(i%12),rating:68+(i*7%17),fitness:92-(i%8),morale:75+(i%20)})) || initialPlayers;
+    const players=archived?(()=>{
+      const quotas:Record<string,number>={GK:1,CB:2,LB:1,RB:1,DM:1,CM:1,AM:1,LW:1,RW:1,CF:1};
+      const chosen:typeof archived.players=[];
+      for(const [role,count] of Object.entries(quotas)){chosen.push(...archived.players.filter(p=>p.position===role).slice(0,count));}
+      const rest=archived.players.filter(p=>!chosen.some(x=>x.id===p.id));
+      const ordered=[...chosen,...rest].slice(0,15);
+      return ordered.map((p,i)=>{const n=Number.parseInt(p.id,10)||i;return {id:i+1,name:p.name,position:positions[p.position]||'ЦП',age:18+(n%17),rating:58+(n%28),fitness:92-(i%8),morale:75+(i%20),marketId:club.id+':'+p.id,sourceClub:club.name};});
+    })():initialPlayers;
     setSave({...defaults,players,clubId:club.id,league:club.league,country:club.country,group:club.group});
     setOpponent(clubs.find(x=>x.league===club.league&&x.group===club.group&&x.id!==club.id)?.name||'Соперник');
     localStorage.setItem('touchline-career-started','yes');
