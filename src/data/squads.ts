@@ -20240,6 +20240,1654 @@ export const squads: ClubSquad[] = [
         "lastStatus": "not_included"
       }
     ]
+  },
+  {
+    "clubId": "fc-st-pauli",
+    "club": "FC St. Pauli",
+    "country": "Германия",
+    "league": "Bundesliga",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/L1/2025/fc-st-pauli.json",
+    "scrapedAt": "2026-06-12T23:12:25.347874+00:00",
+    "players": [
+      {
+        "id": "248454",
+        "name": "Nikola Vasilj",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "453742",
+        "name": "Ben Voll",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "790733",
+        "name": "Emil Gazdov",
+        "position": "GK",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "292534",
+        "name": "Eric Smith",
+        "position": "CB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "610795",
+        "name": "Tomoya Ando",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "451906",
+        "name": "David Nemeth",
+        "position": "CB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "154147",
+        "name": "Hauke Wahl",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "236966",
+        "name": "Adam Dzwigala",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "139304",
+        "name": "Karol Mets",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "909860",
+        "name": "Jannik Robatsch",
+        "position": "CB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "605265",
+        "name": "Louis Oppie",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "333903",
+        "name": "Lars Ritzka",
+        "position": "LB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "599733",
+        "name": "Arkadiusz Pyrka",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "242661",
+        "name": "Manolis Saliakas",
+        "position": "RB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "587019",
+        "name": "Fin Stevens",
+        "position": "RB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "393321",
+        "name": "James Sands",
+        "position": "DM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "697277",
+        "name": "Joel Chima Fujita",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "268327",
+        "name": "Mathias Rasmussen",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "522223",
+        "name": "Connor Metcalfe",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "192557",
+        "name": "Jackson Irvine",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "501049",
+        "name": "Erik Ahlstrand",
+        "position": "CM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1152232",
+        "name": "Nick Schmidt",
+        "position": "CM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "346499",
+        "name": "Danel Sinani",
+        "position": "AM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "424072",
+        "name": "Mathias Pereira Lage",
+        "position": "LW",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "795387",
+        "name": "Romeo Aigbekaen",
+        "position": "LW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "487850",
+        "name": "Oladapo Afolayan",
+        "position": "RW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "596821",
+        "name": "Scott Banks",
+        "position": "RW",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "377729",
+        "name": "Martijn Kaars",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "704155",
+        "name": "Andréas Hountondji",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "677935",
+        "name": "Ricky-Jade Jones",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "495752",
+        "name": "Taichi Hara",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1280281",
+        "name": "Abdoulie Ceesay",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      }
+    ]
+  },
+  {
+    "clubId": "hamburger-sv",
+    "club": "Hamburger SV",
+    "country": "Германия",
+    "league": "Bundesliga",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/L1/2025/hamburger-sv.json",
+    "scrapedAt": "2026-06-12T23:07:01.863607+00:00",
+    "players": [
+      {
+        "id": "468539",
+        "name": "Daniel Peretz",
+        "position": "GK",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "549378",
+        "name": "Sander Tangvik",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "84993",
+        "name": "Daniel Heuer Fernandes",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "894692",
+        "name": "Hannes Hermann",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "892160",
+        "name": "Luka Vuskovic",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "649672",
+        "name": "Nicolás Capaldo",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "227110",
+        "name": "Jordan Torunarigha",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "711996",
+        "name": "Warmed Omari",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "529895",
+        "name": "Daniel Elfadli",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1052420",
+        "name": "Aboubaka Soumahoro",
+        "position": "CB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "340521",
+        "name": "Gui Ramos",
+        "position": "CB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1125079",
+        "name": "Shafiq Nandja",
+        "position": "CB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "298603",
+        "name": "Miro Muheim",
+        "position": "LB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "469949",
+        "name": "Noah Katterbach",
+        "position": "LB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1294853",
+        "name": "Louis Lemke",
+        "position": "LB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "743500",
+        "name": "William Mikelbrencis",
+        "position": "RB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "540056",
+        "name": "Giorgi Gocholeishvili",
+        "position": "RB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "592534",
+        "name": "Nicolai Remberg",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "107574",
+        "name": "Jonas Meffert",
+        "position": "DM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "381967",
+        "name": "Albert Sambi Lokonga",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "537598",
+        "name": "Fábio Vieira",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "503866",
+        "name": "Albert Grønbæk",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "412935",
+        "name": "Immanuel Pherai",
+        "position": "AM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "910582",
+        "name": "Omar Megeed",
+        "position": "AM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "910541",
+        "name": "Fábio Baldé",
+        "position": "LW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "1213681",
+        "name": "Alexander Røssing-Lelesiit",
+        "position": "LW",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "678655",
+        "name": "Philip Otele",
+        "position": "LW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "291222",
+        "name": "Jean-Luc Dompé",
+        "position": "LW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "694507",
+        "name": "Rayan Philippe",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "403177",
+        "name": "Emir Sahiti",
+        "position": "RW",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "415194",
+        "name": "Bakery Jatta",
+        "position": "RW",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "470038",
+        "name": "Ransford Königsdörffer",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "820241",
+        "name": "Damion Downs",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1058520",
+        "name": "Otto Stange",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "196139",
+        "name": "Robert Glatzel",
+        "position": "CF",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "157635",
+        "name": "Yussuf Poulsen",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      }
+    ]
+  },
+  {
+    "clubId": "leipzig",
+    "club": "RB Leipzig",
+    "country": "Германия",
+    "league": "Bundesliga",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/L1/2025/rasenballsport-leipzig.json",
+    "scrapedAt": "2026-06-12T23:00:02.385853+00:00",
+    "players": [
+      {
+        "id": "486046",
+        "name": "Maarten Vandevoordt",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "57071",
+        "name": "Péter Gulácsi",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "160971",
+        "name": "Leopold Zingerle",
+        "position": "GK",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "618472",
+        "name": "Castello Lukeba",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "787912",
+        "name": "El Chadaille Bitshiabu",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "93740",
+        "name": "Willi Orbán",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "215599",
+        "name": "Lukas Klostermann",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "318204",
+        "name": "David Raum",
+        "position": "LB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "810649",
+        "name": "Max Finkgräfe",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "420210",
+        "name": "Lutsharel Geertruida",
+        "position": "RB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "327251",
+        "name": "Ridle Baku",
+        "position": "RB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "202591",
+        "name": "Benjamin Henrichs",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "848682",
+        "name": "Kosta Nedeljkovic",
+        "position": "RB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "404950",
+        "name": "Nicolas Seiwald",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1279157",
+        "name": "Benno Kaltefleiter",
+        "position": "DM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "897424",
+        "name": "Assan Ouédraogo",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "865682",
+        "name": "Ezechiel Banzuzi",
+        "position": "CM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "223979",
+        "name": "Xaver Schlager",
+        "position": "CM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "402008",
+        "name": "Amadou Haidara",
+        "position": "CM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "53418",
+        "name": "Kevin Kampl",
+        "position": "CM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "990146",
+        "name": "Joyeux Masanka Bungi",
+        "position": "LM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "324278",
+        "name": "Christoph Baumgartner",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "566931",
+        "name": "Xavi Simons",
+        "position": "AM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "700106",
+        "name": "Brajan Gruda",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "952779",
+        "name": "Andrija Maksimovic",
+        "position": "AM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1390649",
+        "name": "Yan Diomande",
+        "position": "LW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "894914",
+        "name": "Antonio Nusa",
+        "position": "LW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "955448",
+        "name": "Tidiam Gomis",
+        "position": "LW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "565424",
+        "name": "Johan Bakayoko",
+        "position": "RW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "957874",
+        "name": "Rômulo",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "368887",
+        "name": "Loïs Openda",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "807386",
+        "name": "Conrad Harder",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "170527",
+        "name": "Timo Werner",
+        "position": "CF",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "1380977",
+        "name": "Samba Konaté",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      }
+    ]
+  },
+  {
+    "clubId": "freiburg",
+    "club": "SC Freiburg",
+    "country": "Германия",
+    "league": "Bundesliga",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/L1/2025/sc-freiburg.json",
+    "scrapedAt": "2026-06-12T23:05:23.963440+00:00",
+    "players": [
+      {
+        "id": "526845",
+        "name": "Noah Atubolu",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "284769",
+        "name": "Florian Müller",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "160954",
+        "name": "Jannik Huth",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "863759",
+        "name": "Bruno Ogbus",
+        "position": "CB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "225657",
+        "name": "Philipp Lienhart",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "599419",
+        "name": "Max Rosenfelder",
+        "position": "CB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "124502",
+        "name": "Matthias Ginter",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "58995",
+        "name": "Anthony Jung",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "815078",
+        "name": "Jordy Makengo",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "93707",
+        "name": "Christian Günter",
+        "position": "LB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "335993",
+        "name": "Philipp Treu",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "93604",
+        "name": "Lukas Kübler",
+        "position": "RB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "907082",
+        "name": "Karl Steinmann",
+        "position": "RB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "443331",
+        "name": "Patrick Osterhage",
+        "position": "DM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "55099",
+        "name": "Nicolas Höfler",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "927353",
+        "name": "Johan Manzambi",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "190284",
+        "name": "Maximilian Eggestein",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1159439",
+        "name": "Rouven Tarnutzer",
+        "position": "CM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "608832",
+        "name": "Merlin Röhl",
+        "position": "AM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "820957",
+        "name": "Derry Scherhant",
+        "position": "LW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "185077",
+        "name": "Vincenzo Grifo",
+        "position": "LW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "342967",
+        "name": "Niklas Beste",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1145064",
+        "name": "Cyriaque Irié",
+        "position": "RW",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "645774",
+        "name": "Eren Dinkçi",
+        "position": "RW",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "668606",
+        "name": "Yuito Suzuki",
+        "position": "SS",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "143891",
+        "name": "Maximilian Philipp",
+        "position": "SS",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "605268",
+        "name": "Igor Matanovic",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "248999",
+        "name": "Lucas Höler",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "452477",
+        "name": "Junior Adamu",
+        "position": "CF",
+        "lastStatus": "not_included"
+      }
+    ]
+  },
+  {
+    "clubId": "sv-werder-bremen",
+    "club": "SV Werder Bremen",
+    "country": "Германия",
+    "league": "Bundesliga",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/L1/2025/sv-werder-bremen.json",
+    "scrapedAt": "2026-06-12T23:07:43.450609+00:00",
+    "players": [
+      {
+        "id": "620295",
+        "name": "Mio Backhaus",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "493513",
+        "name": "Karl Hein",
+        "position": "GK",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "99451",
+        "name": "Markus Kolke",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "1084638",
+        "name": "Karim Coulibaly",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "156990",
+        "name": "Marco Friedl",
+        "position": "CB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "334221",
+        "name": "Amos Pieper",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "263361",
+        "name": "Maximilian Wöber",
+        "position": "CB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "162434",
+        "name": "Niklas Stark",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "830108",
+        "name": "Julián Malatini",
+        "position": "CB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "1045986",
+        "name": "Mick Schmetgens",
+        "position": "CB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1032924",
+        "name": "Mats Heitmann",
+        "position": "CB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "393512",
+        "name": "Felix Agu",
+        "position": "LB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "621802",
+        "name": "Olivier Deman",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "449597",
+        "name": "Isaac Schmidt",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "405385",
+        "name": "Yukinari Sugawara",
+        "position": "RB",
+        "lastStatus": "absent"
+      },
+      {
+        "id": "338668",
+        "name": "Senne Lynen",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "855134",
+        "name": "Skelly Alvero",
+        "position": "DM",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "1074523",
+        "name": "Wesley Adeh",
+        "position": "DM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "289835",
+        "name": "Jens Stage",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "449592",
+        "name": "Cameron Puertas",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "93844",
+        "name": "Leonardo Bittencourt",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "346853",
+        "name": "Romano Schmid",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1114155",
+        "name": "Patrice Covic",
+        "position": "AM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "670116",
+        "name": "Isak Hansen-Aarøen",
+        "position": "AM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "825073",
+        "name": "Leon Opitz",
+        "position": "AM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "654991",
+        "name": "Samuel Mbangula",
+        "position": "LW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "391766",
+        "name": "Marco Grüll",
+        "position": "LW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "596153",
+        "name": "Justin Njinmah",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "943795",
+        "name": "Jovan Milosevic",
+        "position": "CF",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "656681",
+        "name": "Victor Boniface",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "701757",
+        "name": "Keke Topp",
+        "position": "CF",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "1042472",
+        "name": "Salim Musah",
+        "position": "CF",
+        "lastStatus": "starting"
+      }
+    ]
+  },
+  {
+    "clubId": "tsg-1899-hoffenheim",
+    "club": "TSG 1899 Hoffenheim",
+    "country": "Германия",
+    "league": "Bundesliga",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/L1/2025/tsg-1899-hoffenheim.json",
+    "scrapedAt": "2026-06-12T23:04:41.404521+00:00",
+    "players": [
+      {
+        "id": "55089",
+        "name": "Oliver Baumann",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "432671",
+        "name": "Luca Philipp",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "579459",
+        "name": "Albian Hajdari",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "361260",
+        "name": "Ozan Kabak",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "620217",
+        "name": "Robin Hranac",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "415035",
+        "name": "Koki Machida",
+        "position": "CB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "875332",
+        "name": "Arthur Chaves",
+        "position": "CB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "160241",
+        "name": "Kevin Akpoguma",
+        "position": "CB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "553539",
+        "name": "Valentin Lässig",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "934529",
+        "name": "Kelven Frees",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "364258",
+        "name": "Bernardo",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "569387",
+        "name": "Valentin Gendrey",
+        "position": "RB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "157672",
+        "name": "Vladimír Coufal",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "667457",
+        "name": "Leon Avdullahu",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "412953",
+        "name": "Wouter Burger",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "234029",
+        "name": "Grischa Prömel",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "569031",
+        "name": "Umut Tohumcu",
+        "position": "CM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "685484",
+        "name": "Luka Duric",
+        "position": "CM",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "434116",
+        "name": "Alexander Prass",
+        "position": "LM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "789898",
+        "name": "Muhammed Damar",
+        "position": "AM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "46580",
+        "name": "Andrej Kramaric",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1067904",
+        "name": "Bazoumana Touré",
+        "position": "LW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "866579",
+        "name": "Cole Campbell",
+        "position": "RW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "524290",
+        "name": "Fisnik Asllani",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "553285",
+        "name": "Tim Lemperle",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "552057",
+        "name": "Adam Hlozek",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "923595",
+        "name": "Max Moerstedt",
+        "position": "CF",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "974894",
+        "name": "David Mokwa",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "930998",
+        "name": "Yannick Eduardo",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "237164",
+        "name": "Ihlas Bebou",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1363814",
+        "name": "Precious Benjamin",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      }
+    ]
+  },
+  {
+    "clubId": "stuttgart",
+    "club": "VfB Stuttgart",
+    "country": "Германия",
+    "league": "Bundesliga",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/L1/2025/vfb-stuttgart.json",
+    "scrapedAt": "2026-06-12T23:03:04.019265+00:00",
+    "players": [
+      {
+        "id": "195778",
+        "name": "Alexander Nübel",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "187624",
+        "name": "Fabian Bredlow",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "388067",
+        "name": "Stefan Drljaca",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "924117",
+        "name": "Finn Jeltsch",
+        "position": "CB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "436064",
+        "name": "Ramon Hendriks",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "303219",
+        "name": "Jeff Chabot",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "539798",
+        "name": "Luca Jaquez",
+        "position": "CB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "620598",
+        "name": "Ameen Al-Dakhil",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "344598",
+        "name": "Dan-Axel Zagadou",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "282660",
+        "name": "Maximilian Mittelstädt",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "448258",
+        "name": "Josha Vagnoman",
+        "position": "RB",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "711969",
+        "name": "Lorenz Assignon",
+        "position": "RB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "507345",
+        "name": "Leonidas Stergiou",
+        "position": "RB",
+        "lastStatus": "not_included"
+      },
+      {
+        "id": "195246",
+        "name": "Pascal Stenzel",
+        "position": "RB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "443710",
+        "name": "Angelo Stiller",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "948279",
+        "name": "Chema Andrés",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "232320",
+        "name": "Atakan Karazor",
+        "position": "DM",
+        "lastStatus": "absent"
+      },
+      {
+        "id": "400546",
+        "name": "Nikolas Nartey",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "654982",
+        "name": "Bilal El Khannouss",
+        "position": "AM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "272278",
+        "name": "Chris Führich",
+        "position": "LW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "518505",
+        "name": "Jamie Leweling",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "616344",
+        "name": "Tiago Tomás",
+        "position": "RW",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "707242",
+        "name": "Badredine Bouanani",
+        "position": "RW",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "897480",
+        "name": "Noah Darvich",
+        "position": "RW",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "897505",
+        "name": "Lazar Jovanovic",
+        "position": "RW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "455661",
+        "name": "Nick Woltemade",
+        "position": "CF",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "335457",
+        "name": "Ermedin Demirovic",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "339314",
+        "name": "Deniz Undav",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "971663",
+        "name": "Jeremy Arévalo",
+        "position": "CF",
+        "lastStatus": "not_in_squad"
+      }
+    ]
+  },
+  {
+    "clubId": "vfl-wolfsburg",
+    "club": "VfL Wolfsburg",
+    "country": "Германия",
+    "league": "Bundesliga",
+    "season": "2025/26",
+    "source": "https://github.com/withqwerty/availability-data/blob/main/raw/L1/2025/vfl-wolfsburg.json",
+    "scrapedAt": "2026-06-12T23:06:11.220515+00:00",
+    "players": [
+      {
+        "id": "346551",
+        "name": "Kamil Grabara",
+        "position": "GK",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "118161",
+        "name": "Marius Müller",
+        "position": "GK",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "51977",
+        "name": "Pavao Pervan",
+        "position": "GK",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "669380",
+        "name": "Konstantinos Koulierakis",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "919515",
+        "name": "Jeanuël Belocian",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "734676",
+        "name": "Jonas Adjetey",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "239962",
+        "name": "Denis Vavro",
+        "position": "CB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "460245",
+        "name": "Moritz Jenz",
+        "position": "CB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "617755",
+        "name": "Jenson Seelt",
+        "position": "CB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "897423",
+        "name": "David Odogu",
+        "position": "CB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1075579",
+        "name": "Mathys Angély",
+        "position": "CB",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "1070022",
+        "name": "Till Neininger",
+        "position": "CB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "369674",
+        "name": "Joakim Maehle",
+        "position": "LB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "730484",
+        "name": "Aaron Zehnter",
+        "position": "LB",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "951579",
+        "name": "Saël Kumbedi",
+        "position": "RB",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "435796",
+        "name": "Kilian Fischer",
+        "position": "RB",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "1009440",
+        "name": "Jan Bürger",
+        "position": "RB",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "663581",
+        "name": "Vini Souza",
+        "position": "DM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "342405",
+        "name": "Mattias Svanberg",
+        "position": "CM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "117674",
+        "name": "Maximilian Arnold",
+        "position": "CM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "1150105",
+        "name": "Pharell Hensel",
+        "position": "CM",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "119277",
+        "name": "Yannick Gerhardt",
+        "position": "CM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "711517",
+        "name": "Kevin Paredes",
+        "position": "LM",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "387106",
+        "name": "Lovro Majer",
+        "position": "AM",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "789252",
+        "name": "Bence Dárdai",
+        "position": "AM",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "69633",
+        "name": "Christian Eriksen",
+        "position": "AM",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1029413",
+        "name": "Trevor Benedict",
+        "position": "LW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "1139729",
+        "name": "Bruno Katz",
+        "position": "LW",
+        "lastStatus": "not_in_squad"
+      },
+      {
+        "id": "533295",
+        "name": "Patrick Wimmer",
+        "position": "RW",
+        "lastStatus": "injured"
+      },
+      {
+        "id": "881297",
+        "name": "Adam Daghim",
+        "position": "RW",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "242063",
+        "name": "Vaclav Cerny",
+        "position": "RW",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "432982",
+        "name": "Andreas Skov Olsen",
+        "position": "RW",
+        "lastStatus": "not_at_club"
+      },
+      {
+        "id": "513245",
+        "name": "Jesper Lindstrøm",
+        "position": "RW",
+        "lastStatus": "bench"
+      },
+      {
+        "id": "746910",
+        "name": "Mohamed Amoura",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "819636",
+        "name": "Dzenan Pejcinovic",
+        "position": "CF",
+        "lastStatus": "starting"
+      },
+      {
+        "id": "1144627",
+        "name": "Kento Shiogai",
+        "position": "CF",
+        "lastStatus": "sub_in"
+      },
+      {
+        "id": "391004",
+        "name": "Jonas Wind",
+        "position": "CF",
+        "lastStatus": "injured"
+      }
+    ]
   }
 ];
 export const squadSeason = '2025/26';
